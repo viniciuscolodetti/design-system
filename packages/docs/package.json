@@ -24,6 +24,9 @@
     "vite": "^3.1.7"
   },
   "dependencies": {
+    "@colodetti-ui/react": "*",
+    "@colodetti-ui/tokens": "*",
+    "@colodetti-ui/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
