@@ -1,0 +1,2 @@
+import{A as t}from"./index.47909186.js";import"./index.f71fa642.js";import"./iframe.2454717a.js";import"./index.e72b19da.js";import"./jsx-runtime.0a48be8b.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/viniciuscolodetti.png",alt:"Vinicius Colodetti"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.647a08f6.js.map
